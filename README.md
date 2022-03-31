@@ -1,2 +1,2 @@
 # RecursiveFibonacci
-Recursive fibonacci sequences wtih helper method. Thanks to helper method recursive becomes efficient.
+Recursive fibonacci sequences with helper method. Thanks to helper method recursive becomes efficient.
